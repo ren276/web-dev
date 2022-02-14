@@ -88,7 +88,7 @@ const cardGenerator = (element) => {
       <div class="d-flex justify-content-between align-items-center">           
           <h5 class="card-title fw-bolder">${element.shoeName}</h5>
           <span id="star" class="d-flex justify-content-center align-items-center rounded p-1 px-2">
-              <img src="star 1.png" alt="star image" class="mx-1" height="17"> <span id="star-rating" class="fw-bold">${
+              <img src="Star 1.png" alt="star image" class="mx-1" height="17"> <span id="star-rating" class="fw-bold">${
                 element.starRating
               }</span>
           </span>
